@@ -61,5 +61,6 @@ Sentiment data APIs
 `CryptoQokka <https://cryptoqokka.com/developer>`_ Market sentiment overview, price and sentiment charts, news with analysis, raw data and more.
 
 `Daneel <https://daneel.io/>`_ Provides market news, trending news, volume news, hot news, global sentiment, market sentiment, gainers and losers and more.
+`HostDeFi <https://hostdefi.com/docs/api/>`_ Free keyless token-safety API — A+–F grades across Solana and EVM chains, 100 checks/day per IP.
 
 
